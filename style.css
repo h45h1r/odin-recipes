@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.links {
+    padding-top: 40px;
+}
+
+.links li {
+    padding-top: 10px;
+}
